@@ -25,3 +25,6 @@ The user interface would have the following interface:
 6. Ability to delete or leave the carpool system.
 7. Ability to alter your personal information.
 8. Ability to view notifications
+
+
+Please note that the commited files do not perform all the actions as required. This presents a demo of the application. 
